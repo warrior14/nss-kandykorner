@@ -1,7 +1,7 @@
 
 import React from "react";
 import { UserGreeting } from "./UserGreeting.js";
-import "./Home.css";
+// import "./Home.css";
 
 export const Home = () => (
     <>
